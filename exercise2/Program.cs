@@ -5,8 +5,8 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число");
 int c = Convert.ToInt32(Console.ReadLine());
 int max = a;
-if (a > b && a > c) max = a;
-if (b > c) max = b;
+if (a > b || a > c) max = a;
+else if (b > c) max = b;
 else max = c;
 Console.WriteLine($" Максимальное число равно {max} ");
 
