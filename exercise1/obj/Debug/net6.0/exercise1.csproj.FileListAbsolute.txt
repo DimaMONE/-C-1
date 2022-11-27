@@ -1,0 +1,15 @@
+C:\1Uchoba\C#domrab\exercise1\bin\Debug\net6.0\exercise1.exe
+C:\1Uchoba\C#domrab\exercise1\bin\Debug\net6.0\exercise1.deps.json
+C:\1Uchoba\C#domrab\exercise1\bin\Debug\net6.0\exercise1.runtimeconfig.json
+C:\1Uchoba\C#domrab\exercise1\bin\Debug\net6.0\exercise1.dll
+C:\1Uchoba\C#domrab\exercise1\bin\Debug\net6.0\exercise1.pdb
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.csproj.AssemblyReference.cache
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfoInputs.cache
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfo.cs
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.csproj.CoreCompileInputs.cache
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.dll
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\refint\exercise1.dll
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.pdb
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\exercise1.genruntimeconfig.cache
+C:\1Uchoba\C#domrab\exercise1\obj\Debug\net6.0\ref\exercise1.dll
