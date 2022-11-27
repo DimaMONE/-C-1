@@ -1,0 +1,15 @@
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.csproj.AssemblyReference.cache
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfoInputs.cache
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfo.cs
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.csproj.CoreCompileInputs.cache
+C:\1Uchoba\C#domrab\exercise2\bin\Debug\net6.0\exercise2.exe
+C:\1Uchoba\C#domrab\exercise2\bin\Debug\net6.0\exercise2.deps.json
+C:\1Uchoba\C#domrab\exercise2\bin\Debug\net6.0\exercise2.runtimeconfig.json
+C:\1Uchoba\C#domrab\exercise2\bin\Debug\net6.0\exercise2.dll
+C:\1Uchoba\C#domrab\exercise2\bin\Debug\net6.0\exercise2.pdb
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.dll
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\refint\exercise2.dll
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.pdb
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\exercise2.genruntimeconfig.cache
+C:\1Uchoba\C#domrab\exercise2\obj\Debug\net6.0\ref\exercise2.dll
