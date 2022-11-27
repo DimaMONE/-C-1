@@ -2,11 +2,11 @@
 int numA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число");
 int numB = Convert.ToInt32(Console.ReadLine());
-if (numA>numB)
+if (numA > numB)
 {
-   Console.WriteLine("Первое число больше второго"); 
+    Console.WriteLine($"Максимальное равно {numA}");
 }
 else
 {
-    Console.WriteLine("Второе число больше первого");
+    Console.WriteLine($"Максимальное равно {numB}");
 }
